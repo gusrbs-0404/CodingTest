@@ -12,3 +12,5 @@ CodingTest
 06/13 : Level 4 심화1 Class1 ~ Class8
 
 06/16 : Level 5 2차원 배열 Class1 ~ Class4
+
+06/17 : Level 6 수학1 Class1 ~ Class7
