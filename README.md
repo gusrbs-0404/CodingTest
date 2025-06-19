@@ -14,3 +14,5 @@ CodingTest
 06/16 : Level 5 2차원 배열 Class1 ~ Class4
 
 06/17 : Level 6 수학1 Class1 ~ Class7
+
+06/19 : Level 7 약수, 배수와 소수1 Class1 ~ Class6
