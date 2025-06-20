@@ -16,3 +16,5 @@ CodingTest
 06/17 : Level 6 수학1 Class1 ~ Class7
 
 06/19 : Level 7 약수, 배수와 소수1 Class1 ~ Class6
+
+06/20 : Level 8 기하1: 직사각형과 삼각형 Class1 ~ Class6
