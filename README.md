@@ -20,3 +20,5 @@ CodingTest
 06/20 : Level 8 기하1: 직사각형과 삼각형 Class1 ~ Class6
 
 06/23 : Level 9 시간 복잡도 Class1 ~ Class7
+
+06/26 : Level 10 브루트 포스 Class1 ~ Class6
