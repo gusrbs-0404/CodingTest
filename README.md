@@ -22,3 +22,7 @@ CodingTest
 06/23 : Level 9 시간 복잡도 Class1 ~ Class7
 
 06/26 : Level 10 브루트 포스 Class1 ~ Class6
+
+06/27 : Level 11 정렬 Class1 ~ Class5
+
+07/09 : Level 11 정렬 Class6 ~ Class11
