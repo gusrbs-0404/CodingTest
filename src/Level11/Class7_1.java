@@ -6,9 +6,9 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Class8 {
+public class Class7_1 {
     public static void main(String[] args) throws IOException {
-        // 11651번 좌표 정렬하기
+        // 11650번 좌표 정렬하기
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         // N개 입력 받기
         int N = Integer.parseInt(br.readLine());
@@ -28,10 +28,10 @@ public class Class8 {
 
         // 람다식 정렬
         Arrays.sort(arr, (e1, e2) -> {
-            if(e1[1] == e2[1]) {
-                return e1[0] - e2[0];
-            } else {
+            if(e1[0] == e2[0]) {
                 return e1[1] - e2[1];
+            } else {
+                return e1[0] - e2[0];
             }
         });
 
